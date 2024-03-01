@@ -1,5 +1,3 @@
-> Fundamental Systems :  Storage, Compute and Network.
-
 ### Distributed Systems Library
 - Gossip (SWIM)
 - Consistent Hashing
