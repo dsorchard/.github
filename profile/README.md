@@ -1,5 +1,9 @@
 ### Distributed Systems Projects
-- [Dist KV](https://github.com/dsorchard/dist_kv) : Gossip, Consistent Hashing, Virtual Node, Replication, Rebalancing
+- [Dist KV](https://github.com/dsorchard/dist_kv): Gossip, Consistent Hashing, Virtual Node, Replication, Rebalancing
+
+### Misc Distributed Systems
+- [leader election](https://github.com/dsorchard/distributed_leader_election): `Layered BFS`, `Flood Max`
+- [network topology optimizer](https://github.com/dsorchard/network_topology_optimizer): `Heuristics`, `Topology`
 
 ### Distributed Systems Library
 - Gossip (SWIM)
