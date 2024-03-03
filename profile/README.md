@@ -1,3 +1,6 @@
+### Distributed Systems Projects
+- [Dist KV](https://github.com/dsorchard/dist_kv) : Gossip, Consistent Hashing, Virtual Node, Replication, Rebalancing
+
 ### Distributed Systems Library
 - Gossip (SWIM)
 - Consistent Hashing
@@ -10,14 +13,12 @@
 - Chubby Lock
 - Failure Detection
 
-### Distributed Systems Projects
-- JunoDB
-
-### Distrbuted Systems Project (Large)
+### Distributed Systems Project (Large)
 - Spark (Apache Hudi)
 - Kafka
 - Apache Omid
 - Cluster Manager (Apache Helix)
+- JunoDB
 
 ### Papers
 - Dynamo Paper
