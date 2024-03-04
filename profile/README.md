@@ -1,5 +1,7 @@
 ### Distributed Systems Projects
 - [Dist KV](https://github.com/dsorchard/dist_kv): Gossip, Consistent Hashing, Virtual Node, Replication, Rebalancing
+- [Raft KV](): Raft, Not Multi Raft
+- [Multi Raft](): Multi Raft, Sharding
 
 ### Misc Distributed Systems
 - [leader election](https://github.com/dsorchard/distributed_leader_election): `Layered BFS`, `Flood Max`
@@ -23,6 +25,7 @@
 - Apache Omid
 - Cluster Manager (Apache Helix)
 - JunoDB
+- Etcd
 
 ### Papers
 - Dynamo Paper
