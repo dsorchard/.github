@@ -1,6 +1,6 @@
 ### Distributed Systems Projects
 - [Dist KV](https://github.com/dsorchard/dist_kv): Gossip, Consistent Hashing, Virtual Node, Replication, Rebalancing
-- [Raft KV](): Raft, Not Multi Raft
+- [Raft KV](https://github.com/dsorchard/raft_kv): Raft, Not Multi Raft
 - [Multi Raft](): Multi Raft, Sharding
 
 ### Misc Distributed Systems
