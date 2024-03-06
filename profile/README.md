@@ -36,6 +36,7 @@
 - Load Balancer Proxy
 
 #### Shrunk systems
+- [junodb-lite](https://github.com/dborchard/junodb_lite): KV Server, Distributed System, Etcd
 - Kafka lite
 - Omid Lite
 - Spark lite
