@@ -11,6 +11,7 @@
 - [hlc]():
 - [leader election](https://github.com/dsorchard/distributed_leader_election): `Layered BFS`, `Flood Max`
 - [network topology optimizer](https://github.com/dsorchard/network_topology_optimizer): `Heuristics`, `Topology`
+- [fan out](): Prometheus 
 
 #### Popular Library Usage
 > Source: Library Examples & Blogs
