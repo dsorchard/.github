@@ -25,8 +25,12 @@
 - [Client + HLC](): Read you writes
 - [Chord Distributed Hash Table]()
 
+#### Misc
+- [embedded server](https://github.com/dborchard/tiny-embedded-server): `Sockets`
+- [geo-spark-lite](https://github.com/dborchard/spatial-spark-rdd): `Spark RDD`, `Apache Sedona`, `Spatial Indexing`
+
 ## 🌿 The Plant
-> Source: Components extracted real-world distributed database
+> Source: Components extracted from real-world distributed database
 
 #### Individual components
 - Raft WAL
@@ -69,6 +73,8 @@
 
 ## 👨‍🌾 Cultivating Knowledge
 > Give talks or discussions. Pending.
+- [Using spark for spatial data management](https://medium.com/sys-base/spatial-partitioned-rdd-using-kd-tree-in-spark-102e0b53564b) - Spark RDD, KD Tree
+
 
 ## 🥭 The Fruit
 > Mark the milestones.
