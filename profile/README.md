@@ -26,8 +26,8 @@
 - [Chord Distributed Hash Table]()
 
 #### Misc
-- [embedded server](https://github.com/dborchard/tiny-embedded-server): `Sockets`
-- [geo-spark-lite](https://github.com/dborchard/spatial-spark-rdd): `Spark RDD`, `Apache Sedona`, `Spatial Indexing`
+- [embedded server](https://github.com/dsorchard/tiny-embedded-server): `Sockets`
+- [geo-spark-lite](https://github.com/dsorchard/spatial-spark-rdd): `Spark RDD`, `Apache Sedona`, `Spatial Indexing`
 
 ## 🌿 The Plant
 > Source: Components extracted from real-world distributed database
@@ -41,7 +41,7 @@
 - Load Balancer Proxy
 
 #### Shrunk systems
-- [junodb-lite](https://github.com/dborchard/junodb_lite): KV Server, Distributed System, Etcd
+- [junodb-lite](https://github.com/dsorchard/junodb_lite): KV Server, Distributed System, Etcd
 - Kafka lite
 - Omid Lite
 - Spark lite
