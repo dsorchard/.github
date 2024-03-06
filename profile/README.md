@@ -25,14 +25,23 @@
 - [Chord Distributed Hash Table]()
 
 ## 🌿 The Plant
-> Source: Components in real-world distributed database
+> Source: Components extracted real-world distributed database
 
+#### Individual components
 - Raft WAL
 - Distributed Gossip Cache
 - Distributed Txn
 - VFS
 - HA Checker
 - Load Balancer Proxy
+
+#### Shrunk systems
+- Kafka lite
+- Omid Lite
+- Spark lite
+- HDFS lite
+- Flink Lite
+- Etcd Lite
 
 ## 🌳 The Tree
 > Source: The popular services for Storage, Compute, and Networks.
