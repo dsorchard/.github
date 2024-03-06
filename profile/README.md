@@ -5,6 +5,7 @@
 
 - [gossip]():
 - [raft]():
+- [paxos]():
 - [snapshot]():
 - [chubby lock]():
 - [2pc]():
