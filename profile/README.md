@@ -11,7 +11,8 @@
 - [2pc]():
 - [hlc]():
 - [leader election](https://github.com/dsorchard/distributed_leader_election): `Layered BFS`, `Flood Max`
-- [fan out](): Prometheus 
+- [fan out](): Prometheus
+- [consistent hashing]():
 
 #### Popular Library Usage
 > Source: Library Examples & Blogs
