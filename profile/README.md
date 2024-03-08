@@ -11,7 +11,6 @@
 - [2pc]():
 - [hlc]():
 - [leader election](https://github.com/dsorchard/distributed_leader_election): `Layered BFS`, `Flood Max`
-- [network topology optimizer](https://github.com/dsorchard/network_topology_optimizer): `Heuristics`, `Topology`
 - [fan out](): Prometheus 
 
 #### Popular Library Usage
@@ -29,6 +28,7 @@
 #### Misc
 - [embedded server](https://github.com/dsorchard/tiny-embedded-server): `Sockets`
 - [geo-spark-lite](https://github.com/dsorchard/spatial-spark-rdd): `Spark RDD`, `Apache Sedona`, `Spatial Indexing`
+- [network topology optimizer](https://github.com/dsorchard/network_topology_optimizer): `Heuristics`, `Topology`
 
 ## 🌿 The Plant
 > Source: Components extracted from real-world distributed database
