@@ -3,28 +3,28 @@
 #### Core Distributed Systems Concepts
 > Source: Academic lab projects.
 
-- [gossip]():
-- [raft]():
-- [paxos]():
-- [snapshot]():
-- [chubby lock]():
-- [2pc]():
-- [hlc]():
+- gossip:
+- raft:
+- paxos:
+- snapshot:
+- chubby lock:
+- 2pc:
+- hlc:
 - [leader election](https://github.com/dsorchard/distributed_leader_election): `Layered BFS`, `Flood Max`
-- [fan out](): Prometheus
-- [consistent hashing]():
+- fan out: Prometheus
+- consistent hashing:
 
 #### Popular Library Usage
 > Source: Library Examples & Blogs
 
 - [Gossip & Consistent Hashing](https://github.com/dsorchard/dist_kv): Gossip, Consistent Hashing, Virtual Node, Replication, Rebalancing
-- [Etcd Membership/Lock]():
+- Etcd Membership/Lock:
 - [Raft](https://github.com/dsorchard/raft_kv): Raft, Not Multi Raft
-- [Multi Raft](): Multi Raft, Sharding
-- [Snapshot](): Distributed Snapshot
-- [2PC or Saga](): Txn, 2PC
-- [Client + HLC](): Read you writes
-- [Chord Distributed Hash Table]()
+- Multi Raft: Multi Raft, Sharding
+- Snapshot: Distributed Snapshot
+- 2PC or Saga: Txn, 2PC
+- Client + HLC: Read you writes
+- Chord Distributed Hash Table
 
 #### Misc
 - [embedded server](https://github.com/dsorchard/tiny-embedded-server): `Sockets`
