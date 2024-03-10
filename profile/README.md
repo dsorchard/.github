@@ -8,6 +8,8 @@
 - paxos:
 - snapshot:
 - chubby lock:
+- HA/keepalive:
+- Load balancer proxy:
 - 2pc:
 - hlc:
 - [leader election](https://github.com/dsorchard/distributed_leader_election): `Layered BFS`, `Flood Max`
