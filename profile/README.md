@@ -42,6 +42,10 @@
 - HA Checker
 - Load Balancer Proxy
 
+#### MatrixOrigin Parts
+- RAFT Log Service
+- Distributed Gossip Cache
+
 #### Shrunk systems
 - [junodb-lite](https://github.com/dsorchard/junodb_lite): KV Server, Distributed System, Etcd
 - Kafka lite
