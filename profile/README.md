@@ -13,6 +13,7 @@
 - 2pc:
 - shuffle:
 - hlc:
+- socket, rpc, dma, rdma, n/w protocols:
 - [leader election](https://github.com/dsorchard/distributed_leader_election): `Layered BFS`, `Flood Max`
 - fan out: Prometheus
 - consistent hashing:
