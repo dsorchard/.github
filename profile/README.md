@@ -36,7 +36,7 @@
 
 #### Individual components
 - Raft WAL
-- Distributed Gossip Cache
+- [Distributed Gossip Cache](https://github.com/dsorchard/gossipcache): Gossip, Consistent Hashing, LRU
 - Distributed Txn
 - VFS
 - HA Checker
