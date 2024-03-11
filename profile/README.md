@@ -3,7 +3,7 @@
 #### Core Distributed Systems Concepts
 > Source: Academic lab projects.
 
-- gossip:
+- [SWIM gossip](https://github.com/dsorchard/swim_impl): SWIM, gossip, disseminator, incarnation
 - raft:
 - paxos:
 - snapshot:
