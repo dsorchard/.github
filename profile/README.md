@@ -9,7 +9,7 @@
 - Replication:
 - Spanning Tree:
 - Symmetry breaking:
-- Snapshot: Chandy-Lamport, Vector Clock, VRPC (library)
+- [Snapshot](https://github.com/dsorchard/distributed_snapshot.git): Chandy-Lamport, Vector Clock, VRPC (library)
 - Synchronizer:
 - Clocks: Vector Clock, Matrix Clock, HLC
 
