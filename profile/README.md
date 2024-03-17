@@ -7,7 +7,6 @@
 - Mutual Exclusion: Chubby Lock, Distributed Lock
 - [Reliable Broadcast](https://github.com/dsorchard/swim_impl): SWIM, gossip, disseminator, incarnation
 - Replication:
-- Resource Allocation:
 - Spanning Tree:
 - Symmetry breaking:
 - Snapshot: Chandy-Lamport
@@ -20,7 +19,7 @@
 - RPC client: socket, rpc, dma, rdma,rest, n/w protocols
 - Load balancer proxy/Fanout: Prometheus, JunoDB
 - Shuffling:
-
+- Resource Allocation:
 
 #### Popular Library Usage
 > Source: Library Examples & Blogs
