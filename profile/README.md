@@ -28,8 +28,8 @@
 - DragonBoat Multi Raft: Multi Raft, Sharding
 - Snapshot: Distributed Snapshot
 - 2PC or Saga: Txn, 2PC
-- DistributedClocks GoVector: https://github.com/DistributedClocks/GoVector
-- lafikl HLC: https://github.com/lafikl/hlc
+- DistributedClocks GoVector: Use DistributedClocks/GoVector
+- lafikl HLC: Use lafikl/hlc
 - Client + HLC: Read your writes
 - Chord Distributed Hash Table
 
