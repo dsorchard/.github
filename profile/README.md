@@ -18,7 +18,7 @@
 - RPC client: socket, rpc, dma, rdma,rest, n/w protocols
 - Load balancer proxy/Fanout: Prometheus, JunoDB
 - Shuffling: Spark, Uber's Remote Shuffling Service
-- Resource Allocation: Spark Resource Allocator
+- Resource Allocation: Spark Resource Allocator, Dead Lock Detection using Resource Allocation Graph
 
 #### Popular Library Usage
 
