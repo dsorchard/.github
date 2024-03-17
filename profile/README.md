@@ -23,12 +23,14 @@
 #### Popular Library Usage
 
 - [Hashicorp Gossip & Consistent Hashing](https://github.com/dsorchard/dist_kv): Gossip, Consistent Hashing, Virtual Node, Replication, Rebalancing
-- Etcd Membership/Lock:
 - [Hashicorp Raft](https://github.com/dsorchard/raft_kv): Raft, Not Multi Raft
-- Multi Raft: Multi Raft, Sharding
+- Etcd Membership/Lock:
+- DragonBoat Multi Raft: Multi Raft, Sharding
 - Snapshot: Distributed Snapshot
 - 2PC or Saga: Txn, 2PC
-- Client + HLC: Read you writes
+- DistributedClocks GoVector: https://github.com/DistributedClocks/GoVector
+- lafikl HLC: https://github.com/lafikl/hlc
+- Client + HLC: Read your writes
 - Chord Distributed Hash Table
 
 #### Misc
@@ -43,32 +45,41 @@
 - Raft WAL
 - [Distributed Gossip Cache](https://github.com/dsorchard/gossipcache): Gossip, Consistent Hashing, LRU
 - Distributed Txn
-- VFS
+- VFS: From Dragonboat library
 - HA Checker
 - Load Balancer Proxy
 
 #### MatrixOrigin Parts
 - RAFT Log Service
 - Distributed Gossip Cache
+- RPC Client
+- Distributed Txn
 
-#### Shrunk systems
+#### Shrunk Distributed Database Systems
 - [junodb-lite](https://github.com/dsorchard/junodb_lite): KV Server, Distributed System, Etcd
-- Kafka lite
-- Omid Lite
-- Spark lite
-- HDFS lite
-- Flink Lite
 - Etcd Lite
+- Omid Lite [Java]
+- HDFS lite [Java]
+
+#### Shrunk Misc Systems
+
+- Flink Lite
+- Kafka lite
+- Spark lite
+
 
 ## 🌳 The Tree
 > Source: The popular services for Storage, Compute, and Networks.
 
-- Spark (Apache Hudi)
-- Kafka
-- Apache Omid
-- Cluster Manager (Apache Helix)
+#### Distributed Database/Cache/Storage Systems
 - JunoDB
 - Etcd
+- Apache Omid
+- Cluster Manager (Apache Helix)
+
+#### Misc Distributed Systems
+- Spark (Apache Hudi)
+- Kafka
 
 ## 💧 The Resources
 > Learn the concepts. Build examples. Defend your understanding.
