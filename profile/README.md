@@ -9,7 +9,7 @@
 - Replication:
 - Spanning Tree:
 - Symmetry breaking:
-- Snapshot: Chandy-Lamport
+- Snapshot: Chandy-Lamport, Vector Clock, VRPC (library)
 - Synchronizer:
 - Logical Clock: HLC
 
