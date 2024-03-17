@@ -16,8 +16,8 @@
 - Logical Clock: HLC
 
 #### Core Concepts
-- consistent hashing:
-- socket, rpc, dma, rdma, n/w protocols:
+- Consistent Hashing:
+- RPC client: socket, rpc, dma, rdma,rest, n/w protocols
 - Load balancer proxy/Fanout: Prometheus, JunoDB
 - Shuffling:
 
