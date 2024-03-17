@@ -10,10 +10,10 @@
 - Resource Allocation:
 - Spanning Tree:
 - Symmetry breaking:
-- Snapshot:
+- Snapshot: Chandy-Lamport
 - Synchronizer:
 - HA/keepalive:
-- Logical Clock:
+- Logical Clock: HLC
 
 #### Core Concepts
 - consistent hashing:
