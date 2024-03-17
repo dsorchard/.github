@@ -21,7 +21,6 @@
 - Resource Allocation: Spark Resource Allocator
 
 #### Popular Library Usage
-> Source: Library Examples & Blogs
 
 - [Hashicorp Gossip & Consistent Hashing](https://github.com/dsorchard/dist_kv): Gossip, Consistent Hashing, Virtual Node, Replication, Rebalancing
 - Etcd Membership/Lock:
