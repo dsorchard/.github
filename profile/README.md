@@ -56,6 +56,10 @@
 - RPC Client
 - Distributed Txn
 
+#### E2E Products
+- Distributed KV Store: 2PC, Gossip, Consistent/Range Partitioning, RAFT WAL, Snapshot, Checkpointing, HA, Etcd
+- Distributed Query Execution: SQL Layer, 2PC, RPC module, VRPC tracing, Catalog, Agg Fn
+
 #### Shrunk Distributed Database Systems
 - [junodb-lite](https://github.com/dsorchard/junodb_lite): KV Server, Distributed System, Etcd
 - Etcd Lite
