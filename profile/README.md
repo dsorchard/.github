@@ -4,7 +4,7 @@
 - [Atomic Commit](https://github.com/dsorchard/two_pc): 2 phase commit, replica, atomic commit
 - Consensus: Paxos, Raft
 - [Leader Election](https://github.com/dsorchard/distributed_leader_election): `Layered BFS`, `Flood Max` 
-- Mutual Exclusion: Chubby Lock, Distributed Lock, Use [this](https://github.com/dsorchard/Distributed-MutualExclusion)
+- Mutual Exclusion: Chubby Lock vs [Theory Dist. Locks](https://github.com/dsorchard/Distributed-MutualExclusion)
 - [Reliable Broadcast](https://github.com/dsorchard/swim_impl): SWIM, gossip, disseminator, incarnation
 - Replication:
 - Spanning Tree:
