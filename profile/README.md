@@ -4,13 +4,13 @@
 > Source: Academic lab projects.
 
 - [SWIM gossip](https://github.com/dsorchard/swim_impl): SWIM, gossip, disseminator, incarnation
+- [2pc](https://github.com/arjunsk/two_pc): 2 phase commit, replica, atomic commit
 - raft:
 - paxos:
 - snapshot:
 - chubby lock:
 - HA/keepalive:
 - Load balancer proxy:
-- 2pc:
 - shuffle:
 - hlc:
 - socket, rpc, dma, rdma, n/w protocols:
