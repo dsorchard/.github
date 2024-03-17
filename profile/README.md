@@ -64,10 +64,10 @@
 - [junodb-lite](https://github.com/dsorchard/junodb_lite): KV Server, Distributed System, Etcd
 - Etcd Lite
 - Omid Lite [Java]
-- HDFS lite [Java]
 
 #### Shrunk Misc Systems
 
+- HDFS lite [Java]
 - Flink Lite
 - Kafka lite
 - Spark lite
