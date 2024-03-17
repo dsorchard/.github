@@ -11,15 +11,14 @@
 - Symmetry breaking:
 - Snapshot: Chandy-Lamport
 - Synchronizer:
-- HA/keepalive:
 - Logical Clock: HLC
 
 #### Core Concepts
-- Consistent Hashing:
+- HA/keepalive:
 - RPC client: socket, rpc, dma, rdma,rest, n/w protocols
 - Load balancer proxy/Fanout: Prometheus, JunoDB
-- Shuffling:
-- Resource Allocation:
+- Shuffling: Spark, Uber's Remote Shuffling Service
+- Resource Allocation: Spark Resource Allocator
 
 #### Popular Library Usage
 > Source: Library Examples & Blogs
