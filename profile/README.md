@@ -1,7 +1,7 @@
 ## 🌱 The Foundation
 
 #### Core Distributed Systems Algorithms from [Wiki](https://en.wikipedia.org/wiki/Distributed_algorithm)
-- [Atomic Commit](https://github.com/arjunsk/two_pc): 2 phase commit, replica, atomic commit
+- [Atomic Commit](https://github.com/dsorchard/two_pc): 2 phase commit, replica, atomic commit
 - Consensus: Paxos, Raft
 - [Leader Election](https://github.com/dsorchard/distributed_leader_election): `Layered BFS`, `Flood Max` 
 - Mutual Exclusion: Chubby Lock, Distributed Lock
