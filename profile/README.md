@@ -25,9 +25,9 @@
 #### Popular Library Usage
 > Source: Library Examples & Blogs
 
-- [Gossip & Consistent Hashing](https://github.com/dsorchard/dist_kv): Gossip, Consistent Hashing, Virtual Node, Replication, Rebalancing
+- [Hashicorp Gossip & Consistent Hashing](https://github.com/dsorchard/dist_kv): Gossip, Consistent Hashing, Virtual Node, Replication, Rebalancing
 - Etcd Membership/Lock:
-- [Raft](https://github.com/dsorchard/raft_kv): Raft, Not Multi Raft
+- [Hashicorp Raft](https://github.com/dsorchard/raft_kv): Raft, Not Multi Raft
 - Multi Raft: Multi Raft, Sharding
 - Snapshot: Distributed Snapshot
 - 2PC or Saga: Txn, 2PC
