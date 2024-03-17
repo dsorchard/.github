@@ -1,22 +1,26 @@
 ## 🌱 The Foundation
 
-#### Core Distributed Systems Concepts
-> Source: Academic lab projects.
-
-- [SWIM gossip](https://github.com/dsorchard/swim_impl): SWIM, gossip, disseminator, incarnation
-- [2pc](https://github.com/arjunsk/two_pc): 2 phase commit, replica, atomic commit
-- raft:
-- paxos:
-- snapshot:
-- chubby lock:
+#### Core Distributed Systems Algorithms from [Wiki](https://en.wikipedia.org/wiki/Distributed_algorithm)
+- [Atomic Commit](https://github.com/arjunsk/two_pc): 2 phase commit, replica, atomic commit
+- Consensus: Paxos, Raft
+- [Leader Election](https://github.com/dsorchard/distributed_leader_election): `Layered BFS`, `Flood Max` 
+- Mutual Exclusion: Chubby Lock, Distributed Lock
+- [Reliable Broadcast](https://github.com/dsorchard/swim_impl): SWIM, gossip, disseminator, incarnation
+- Replication:
+- Resource Allocation:
+- Spanning Tree:
+- Symmetry breaking:
+- Snapshot:
+- Synchronizer:
 - HA/keepalive:
-- Load balancer proxy:
-- shuffle:
-- hlc:
-- socket, rpc, dma, rdma, n/w protocols:
-- [leader election](https://github.com/dsorchard/distributed_leader_election): `Layered BFS`, `Flood Max`
-- fan out: Prometheus
+- Logical Clock:
+
+#### Core Concepts
 - consistent hashing:
+- socket, rpc, dma, rdma, n/w protocols:
+- Load balancer proxy/Fanout: Prometheus, JunoDB
+- Shuffling:
+
 
 #### Popular Library Usage
 > Source: Library Examples & Blogs
