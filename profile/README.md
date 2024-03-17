@@ -57,9 +57,9 @@
 - Distributed Txn
 
 #### E2E Products
-- Distributed KV Store: 2PC, Gossip, Consistent/Range Partitioning, RAFT WAL, HA, Etcd, Proxy (load balancer)
+- Distributed KV Store: 2PC, Gossip, Consistent/Range Partitioning, RAFT WAL, HA, Etcd, Proxy (load balancer), Stats
 - Distributed Execution Engine: Like Spark, VFS, Cache, Process, Checkpointing, Snapshot, Rate Limiting
-- Distributed Query Engine: 2PC, RPC module, VRPC tracing, Catalog, Agg Fn, Binder, Type Coercion
+- Distributed Query Engine: 2PC, RPC module, VRPC tracing, Catalog, Agg Fn, Binder, Type Coercion, Use Stats in Optimizer
 
 #### Shrunk Distributed Database Systems
 - [junodb-lite](https://github.com/dsorchard/junodb_lite): KV Server, Distributed System, Etcd
