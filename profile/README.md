@@ -13,7 +13,7 @@
 - Synchronizer:
 - Logical Clock: HLC
 
-#### Core Concepts
+#### More Distributed Systems Engineering Concepts
 - HA/keepalive: Central Service, HA state added to multi-raft
 - RPC client: socket, rpc, dma, rdma,rest, n/w protocols
 - Load balancer proxy/Fanout: Prometheus, JunoDB
