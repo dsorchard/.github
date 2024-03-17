@@ -58,7 +58,7 @@
 
 #### E2E Products
 - Distributed KV Store: 2PC, Gossip, Consistent/Range Partitioning, RAFT WAL, HA, Etcd, Proxy (load balancer)
-- Distributed Execution Engine: Like Spark, VFS, Cache, Process, Checkpointing, Snapshot
+- Distributed Execution Engine: Like Spark, VFS, Cache, Process, Checkpointing, Snapshot, Rate Limiting
 - Distributed Query Engine: 2PC, RPC module, VRPC tracing, Catalog, Agg Fn, Binder, Type Coercion
 
 #### Shrunk Distributed Database Systems
