@@ -11,7 +11,7 @@
 - Symmetry breaking:
 - Snapshot: Chandy-Lamport, Vector Clock, VRPC (library)
 - Synchronizer:
-- Logical Clock: HLC
+- Clocks: Vector Clock, Matrix Clock, HLC
 
 #### More Distributed Systems Engineering Concepts
 - HA/keepalive: Central Service, HA state added to multi-raft
