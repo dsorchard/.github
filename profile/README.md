@@ -95,7 +95,7 @@
 </details>
 
 ## 💧 The Resources
-> Learn the concepts. Revisit papers/slides. Build counterexamples. Defend your understanding. Think like a scientist.
+> Revisit papers/slides. Build counterexamples. Think like a scientist.
 
 <details>
 <summary>Read More</summary>
