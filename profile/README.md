@@ -86,12 +86,10 @@
 #### Distributed Database/Cache/Storage Systems
 - JunoDB
 - Etcd
-- Apache Omid
-- Cluster Manager (Apache Helix)
+- MatrixOrigin
+- TiDB
+- CockroachDB
 
-#### Misc Distributed Systems
-- Spark (Apache Hudi)
-- Kafka
 </details>
 
 ## 💧 The Resources
