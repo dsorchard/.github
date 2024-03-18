@@ -16,7 +16,6 @@
 - [Snapshot](https://github.com/dsorchard/distributed_snapshot.git): Chandy-Lamport, Vector Clock, VRPC (library)
 - Synchronizer:
 - Clocks: Vector Clock, Matrix Clock, HLC
-- Checkpointing and Recovery: Koo and Toueg’s Protocol
 
 #### More Distributed Systems Concepts
 - HA/keepalive: Central Service, HA state added to multi-raft
@@ -24,6 +23,7 @@
 - Load balancer proxy/Fanout: Prometheus, JunoDB
 - Shuffling: Spark, Uber's Remote Shuffling Service
 - Resource Allocation: Spark Resource Allocator, Dead Lock Detection using Resource Allocation Graph
+- Checkpointing and Recovery: Koo and Toueg’s Protocol
 
 #### Popular Library Usage
 
