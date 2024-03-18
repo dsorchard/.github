@@ -103,10 +103,14 @@
 - [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/) - `Spanner` 2PC etc.
 - [Designing Data-Intensive Applications](https://a.co/d/hwmSC1o)
 
-#### Papers
+#### Papers read
 - Dynamo Paper
-- Chord DT Paper
 - SWIM Paper
+- Spanner Paper
+
+#### Papers [Pending]
+- Chord DT Paper
+
 </details>
 
 ## 👨‍🌾 Cultivating Knowledge
