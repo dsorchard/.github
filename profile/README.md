@@ -7,6 +7,7 @@
 - Mutual Exclusion: Chubby Lock vs [Theory Dist. Locks](https://github.com/dsorchard/Distributed-MutualExclusion)
 - [Reliable Broadcast](https://github.com/dsorchard/swim_impl): SWIM, gossip, disseminator, incarnation
 - Replication: RAID, Deduplicate
+- Retry Strategy: At least once, At most once, Exactly once
 - Spanning Tree: MST
 - Symmetry breaking:
 - [Snapshot](https://github.com/dsorchard/distributed_snapshot.git): Chandy-Lamport, Vector Clock, VRPC (library)
