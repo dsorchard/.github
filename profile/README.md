@@ -18,9 +18,9 @@
 - Clocks: Vector Clock, Matrix Clock, HLC
 - Checkpointing and Recovery: Koo and Toueg’s Protocol
 
-#### More Distributed Systems Engineering Concepts
+#### More Distributed Systems Concepts
 - HA/keepalive: Central Service, HA state added to multi-raft
-- RPC client: socket, rpc, dma, rdma,rest, n/w protocols
+- RPC client: socket, RPC, DMA, RDMA, REST, n/w protocols
 - Load balancer proxy/Fanout: Prometheus, JunoDB
 - Shuffling: Spark, Uber's Remote Shuffling Service
 - Resource Allocation: Spark Resource Allocator, Dead Lock Detection using Resource Allocation Graph
