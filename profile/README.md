@@ -123,7 +123,9 @@
 <details>
 <summary>Read More</summary>
 
+#### Published Resources
 - [Using spark for spatial data management](https://medium.com/sys-base/spatial-partitioned-rdd-using-kd-tree-in-spark-102e0b53564b) - Spark RDD, KD Tree
+
 </details>
 
 ## 🥭 The Fruit
