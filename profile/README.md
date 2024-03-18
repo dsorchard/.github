@@ -6,7 +6,7 @@
 - [Leader Election](https://github.com/dsorchard/distributed_leader_election): `Layered BFS`, `Flood Max` 
 - Mutual Exclusion: Chubby Lock vs [Theory Dist. Locks](https://github.com/dsorchard/Distributed-MutualExclusion)
 - [Reliable Broadcast](https://github.com/dsorchard/swim_impl): SWIM, gossip, disseminator, incarnation
-- Replication: RAID, Deduplicate
+- Replication: RAID, Deduplicate, CRDT
 - Retry Strategy: At least once, At most once, Exactly once
 - Spanning Tree: MST
 - Symmetry breaking:
