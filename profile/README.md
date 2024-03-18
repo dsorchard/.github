@@ -23,7 +23,7 @@
 - Resource Allocation: Spark Resource Allocator, Dead Lock Detection using Resource Allocation Graph
 - Checkpointing and Recovery: Koo and Toueg’s Protocol
 - Synchronizer:
-- Symmetry breaking:
+- Symmetry breaking: Leader election in Ring
 
 #### Popular Library Usage
 
