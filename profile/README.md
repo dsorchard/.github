@@ -1,5 +1,8 @@
 ## 🌱 The Foundation
 
+<details>
+<summary>Read More</summary>
+
 #### Core Distributed Systems Algorithms from [Wiki](https://en.wikipedia.org/wiki/Distributed_algorithm)
 - [Atomic Commit](https://github.com/dsorchard/two_pc): 2 phase commit, replica, atomic commit
 - Consensus: Paxos, Raft
@@ -40,8 +43,13 @@
 - [geo-spark-lite](https://github.com/dsorchard/spatial-spark-rdd): `Spark RDD`, `Apache Sedona`, `Spatial Indexing`
 - [network topology optimizer](https://github.com/dsorchard/network_topology_optimizer): `Heuristics`, `Topology`
 
+</details>
+
 ## 🌿 The Plant
 > Source: Components extracted from real-world distributed database
+
+<details>
+<summary>Read More</summary>
 
 #### Individual components
 - Raft WAL
@@ -74,9 +82,13 @@
 - Kafka lite
 - Spark lite
 
+</details>
 
 ## 🌳 The Tree
 > Source: The popular services for Storage, Compute, and Networks.
+
+<details>
+<summary>Read More</summary>
 
 #### Distributed Database/Cache/Storage Systems
 - JunoDB
@@ -87,9 +99,13 @@
 #### Misc Distributed Systems
 - Spark (Apache Hudi)
 - Kafka
+</details>
 
 ## 💧 The Resources
 > Learn the concepts. Build examples. Defend your understanding.
+
+<details>
+<summary>Read More</summary>
 
 #### Books
 - [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/) - `Spanner` 2PC etc.
@@ -99,11 +115,21 @@
 - Dynamo Paper
 - Chord DT Paper
 - SWIM Paper
+</details>
 
 ## 👨‍🌾 Cultivating Knowledge
 > Give talks or discussions. Pending.
-- [Using spark for spatial data management](https://medium.com/sys-base/spatial-partitioned-rdd-using-kd-tree-in-spark-102e0b53564b) - Spark RDD, KD Tree
 
+<details>
+<summary>Read More</summary>
+
+- [Using spark for spatial data management](https://medium.com/sys-base/spatial-partitioned-rdd-using-kd-tree-in-spark-102e0b53564b) - Spark RDD, KD Tree
+</details>
 
 ## 🥭 The Fruit
 > Mark the milestones.
+
+<details>
+<summary>Read More</summary>
+
+</details>
