@@ -12,9 +12,7 @@
 - Replication: RAID, Deduplicate, CRDT
 - Retry Strategy: At least once, At most once, Exactly once
 - Spanning Tree: MST
-- Symmetry breaking:
 - [Snapshot](https://github.com/dsorchard/distributed_snapshot.git): Chandy-Lamport, Vector Clock, VRPC (library)
-- Synchronizer:
 - Clocks: Vector Clock, Matrix Clock, HLC
 
 #### More Distributed Systems Concepts
@@ -24,6 +22,8 @@
 - Shuffling: Spark, Uber's Remote Shuffling Service
 - Resource Allocation: Spark Resource Allocator, Dead Lock Detection using Resource Allocation Graph
 - Checkpointing and Recovery: Koo and Toueg’s Protocol
+- Synchronizer:
+- Symmetry breaking:
 
 #### Popular Library Usage
 
