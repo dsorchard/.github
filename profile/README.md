@@ -1,4 +1,5 @@
 ## 🌱 The Foundation
+> Get the basics right.
 
 <details>
 <summary>Read More</summary>
@@ -46,7 +47,7 @@
 </details>
 
 ## 🌿 The Plant
-> Source: Components extracted from real-world distributed database
+> Read, Extract parts, and Learn the inner workings.
 
 <details>
 <summary>Read More</summary>
@@ -77,7 +78,7 @@
 </details>
 
 ## 🌳 The Tree
-> Source: The popular services for Storage, Compute, and Networks.
+> Pick your favorite distributed database/system and shrink it.
 
 <details>
 <summary>Read More</summary>
@@ -94,7 +95,7 @@
 </details>
 
 ## 💧 The Resources
-> Learn the concepts. Build examples. Defend your understanding.
+> Learn the concepts. Revisit papers/slides. Build counterexamples. Defend your understanding. Think like a scientist.
 
 <details>
 <summary>Read More</summary>
@@ -114,7 +115,7 @@
 </details>
 
 ## 👨‍🌾 Cultivating Knowledge
-> Give talks or discussions. Pending.
+> Write what you understood. (Maybe later)
 
 <details>
 <summary>Read More</summary>
@@ -125,7 +126,7 @@
 </details>
 
 ## 🥭 The Fruit
-> Mark the milestones.
+> Mark your achievements.
 
 <details>
 <summary>Read More</summary>
