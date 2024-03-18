@@ -71,7 +71,7 @@
 - Distributed Execution Engine: Like Spark, VFS, Cache, Process, Checkpointing, Snapshot, Rate Limiting
 - Distributed Query Engine: 2PC, RPC module, VRPC tracing, Catalog, Agg Fn, Binder, Type Coercion, Use Stats in Optimizer
 
-#### Shrunk Distributed Database Systems
+#### Shrunk Distributed DB's
 - [junodb-lite](https://github.com/dsorchard/junodb_lite): KV Server, Distributed System, Etcd
 - Etcd Lite
 
