@@ -23,10 +23,11 @@
 - Shuffling: Spark, Uber's Remote Shuffling Service
 - Resource Allocation: Spark Resource Allocator, Dead Lock Detection using Resource Allocation Graph
 - Checkpointing and Recovery: Koo and Toueg’s Protocol
-- Synchronizer:
+- Synchronizer: Physical clock synchronization 
 - Symmetry breaking: Leader election in Ring
-- Multi-Tenant Systems
+- Multi-Tenant Systems: Sharing one instance with many users. Adding TenantId prefix to resource access calls.
 - Distributed Rate Limiter: Make be reference [this](https://github.com/fagongzi/distributed-limiter/tree/master)
+- Scheduling: Quartz, DAG, Dead-lock
 
 #### Popular Library Usage
 
@@ -39,7 +40,7 @@
 - DistributedClocks GoVector: Use DistributedClocks/GoVector
 - lafikl HLC: Use lafikl/hlc
 - Client + HLC: Read your writes
-- Chord Distributed Hash Table
+- Chord Distributed Hash Table vs Locality Sensitive Hashing: Read more in [Wiki](https://en.wikipedia.org/wiki/Distributed_hash_table)  
 
 #### Misc
 - [embedded server](https://github.com/dsorchard/tiny-embedded-server): `Sockets`
@@ -49,7 +50,7 @@
 </details>
 
 ## 🌿 The Plant
-> Read, Extract parts, and Learn the inner workings.
+> Read, Extract components, and Learn the inner workings.
 
 <details>
 <summary>Read More</summary>
