@@ -26,6 +26,7 @@
 - Synchronizer:
 - Symmetry breaking: Leader election in Ring
 - Multi-Tenant Systems
+- Distributed Rate Limiter: Make be reference [this](https://github.com/fagongzi/distributed-limiter/tree/master)
 
 #### Popular Library Usage
 
