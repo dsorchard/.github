@@ -18,7 +18,7 @@
 
 #### More Distributed Systems Concepts
 - HA/keepalive: Central Service, HA state added to multi-raft
-- RPC client: socket, RPC, DMA, RDMA, REST, n/w protocols
+- RPC client: socket, RPC, GRPC, DMA, RDMA, REST, n/w protocols, Arrow RPC, GORM
 - Load balancer proxy/Fanout: Prometheus, JunoDB
 - Shuffling: Spark, Uber's Remote Shuffling Service
 - Resource Allocation: Spark Resource Allocator, Dead Lock Detection using Resource Allocation Graph
@@ -72,6 +72,7 @@
 - Distributed KV Store: 2PC, Gossip, Consistent/Range Partitioning, RAFT WAL, HA, Etcd, Proxy (load balancer), Stats
 - Distributed Execution Engine: Like Spark, VFS, Cache, Process, Checkpointing, Snapshot, Rate Limiting
 - Distributed Query Engine: 2PC, RPC module, VRPC tracing, Catalog, Agg Fn, Binder, Type Coercion, Use Stats in Optimizer
+- Distributed File Store: Maybe like HDFS, SeaweedFS, JuiceFS
 
 #### Shrunk Distributed DB's
 - [junodb-lite](https://github.com/dsorchard/junodb_lite): KV Server, Distributed System, Etcd
