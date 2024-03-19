@@ -25,6 +25,7 @@
 - Checkpointing and Recovery: Koo and Toueg’s Protocol
 - Synchronizer:
 - Symmetry breaking: Leader election in Ring
+- Multi-Tenant Systems
 
 #### Popular Library Usage
 
