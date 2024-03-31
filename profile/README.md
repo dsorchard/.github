@@ -79,6 +79,13 @@
 - [junodb-lite](https://github.com/dsorchard/junodb_lite): KV Server, Distributed System, Etcd
 - Etcd Lite
 
+#### Industry Tool Usage: (Networking, Compute, Storage)
+- Networking: Kubernetes Operator
+- Compute: Spark
+- Storage: RocksDB, HDFS
+- Observability:
+- Tracing:
+
 </details>
 
 ## 🌳 The Tree
